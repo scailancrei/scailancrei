@@ -1,48 +1,56 @@
-![hippo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3pvcm51bmw0ZWV0OWFldzh1dnE5d2hhNWw5NGR0MTluNzZzODc2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l0FF56cexcW2JAXCJj/giphy.gif)
+# HI! I'm Juan Antonio 👋
 
-# ¡Hola! Soy Juan Antonio
+👨‍💻 FullStack Developer &&  QA Engineer
 
-👨‍💻 Desarrollador FullStack | Ingeniero QA
+## 👨‍💻 About Me
 
-## Sobre Mí
+💻 +5 years as a **self-taught Full Stack Developer**, specialized in **JavaScript** and **React**. 
+Previously worked in QA, bringing a strong attention to detail into front-end development **Increased a 40% of results in debugging bugs with Cypress**
 
-Soy un desarrollador apasionado con experiencia en tecnologías web y móviles. Actualmente, estoy mejorando mis habilidades en React Native y he trabajado como Ingeniero QA con herramientas como Cypress y Selenium
+**My main goal** is to help people and contribute to **building** a better, more inclusive world where everyone can grow as a developer and **share my knowledge**.
 
-## Habilidades
+
+## Tech Stack	
 
 - **Frontend:** HTML, CSS, JavaScript, React, Typescript
 - **Backend:** NODEJS, Expressjs, Java
-- **FrameWorks:** NEXTjs, Astro y Preprocesadores como TailwindCSS
+- **FrameWorks:** **NEXTjs**, **Astro** and Preprocessors like **TailwindCSS**
 - **DataBases:** MongoDb, MYSQL, GraphQL
 - **Mobile:** React Native
 - **Testing:** Cypress, Selenium
 - **Otras:** Git, GitHub
 
-## Proyectos Destacados
+## ✅ Selected Projects
 
-### [ChatWeb](https://chatweb-1-b6sy.onrender.com/)
-Un sistema de chat en tiempo real en el cual la gente puede entrar a una sala cualquiera con un nombre de Usuario.
-El creador de la sala puede asignar también un nombre a la misma.
-Está desarrollado:
--**FRONT:** HTML CSS Y JAVASCRIPT
--**BACKEND:** Nodejs, Express y SocketIO
-Para probarlo basta con abrir la aplicación en 2 ventanas diferentes y ver como puedes interactuar y hablar con otros usuarios.
+### 💻 [ChatWeb](https://chatweb-1-b6sy.onrender.com/)💻
+A real-time chat application with sockets.io than allow users to create private rooms and interact with people.
+
+**Tech Used:**
+- **FRONTEND:** HTML CSS & JAVASCRIPT
+- **BACKEND:** Nodejs, Express y SocketIO
+
+**How to Use:**
+
+Open the app in two differents windows in your browser, put a username and a new room name and then join into the room as other user to interact and chatting.
 
 
-### [Clasificación de Repositorios](https://github.com/scailancrei/github-rate-repository)
-Una app diseñada en React Native para movil android e IOS con sistema de clasificación
--**Base de datos:** GraphQL
--**FRONT:** React Native
--**Plataforma:** Expo
+### ⭐ [Repositories Rating](https://github.com/scailancrei/github-rate-repository) ⭐
+A **React Native** mobile app built to rate repositories and manage data using GraphQL, designed to deepen understanding of React Native's core principles.
 
-## Estadísticas de GitHub
+**Tech Used:**
+
+- **DATABASES:** GraphQL
+- **FRONTEND:** React Native
+- **Plataform:** Expo
+
+## My Stats
 
 ![Tus Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=scailancrei&show_icons=true&theme=tokyonight)
 ![scailancrei's Streak](https://github-readme-streak-stats.herokuapp.com/?user=scailancrei&theme=tokyonight&hide_border=true)
 ![scailancrei's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=scailancrei&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
-## Contacto
+## Contact
 
-- 📧 [Correo Electrónico](mailto:juanantonio.dev@hotmail.com)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/juan-antonio-p%C3%A9rez-lores/)
+- 📧 **[Email](mailto:juanantonio.dev@hotmail.com)**
+- 🌐 **[LinkedIn](https://www.linkedin.com/in/juan-antonio-pérez-lores/)**

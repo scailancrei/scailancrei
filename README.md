@@ -1,6 +1,6 @@
 # HI! I'm Juan Antonio 👋
 
-👨‍💻 FullStack Developer &&  QA Engineer
+👨‍💻 FullStack Developer &  QA Engineer
 
 ## 👨‍💻 About Me
 

@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-💻 +5 years as a **self-taught Full Stack Developer**, specialized in **JavaScript** and **React**. 
+💻 +5 years as a **self-taught FullStack Developer**. 
 Previously worked in QA, bringing a strong attention to detail into front-end development **Increased a 40% of results in debugging bugs with Cypress**
 
 **My main goal** is to help people and contribute to **building** a better, more inclusive world where everyone can grow as a developer and **share my knowledge**.
@@ -13,12 +13,12 @@ Previously worked in QA, bringing a strong attention to detail into front-end de
 ## Tech Stack	
 
 - **Frontend:** HTML, CSS, JavaScript, React, Typescript
-- **Backend:** NODEJS, Expressjs, Java
+- **Backend:** NODEJS, Expressjs, Java, Python
 - **FrameWorks:** **NEXTjs**, **Astro** and Preprocessors like **TailwindCSS**
-- **DataBases:** MongoDb, MYSQL, GraphQL
+- **DataBases:** MongoDb, MYSQL, GraphQL, PostgreSQL
 - **Mobile:** React Native
-- **Testing:** Cypress, Selenium
-- **Otras:** Git, GitHub
+- **Testing:** Cypress, Selenium, playwright
+- **Tools:** Git, GitHub Workflows
 
 ## ✅ Selected Projects
 
@@ -27,7 +27,7 @@ A real-time chat application with sockets.io than allow users to create private 
 
 **Tech Used:**
 - **FRONTEND:** HTML CSS & JAVASCRIPT
-- **BACKEND:** Nodejs, Express y SocketIO
+- **BACKEND:** Nodejs, Express & SocketIO
 
 **How to Use:**
 

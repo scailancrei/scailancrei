@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 
-💻 +5 years as a **self-taught FullStack Developer**. 
+💻 +6 years as a **self-taught FullStack Developer**. 
 Previously worked in QA, bringing a strong attention to detail into front-end development **Increased a 40% of results in debugging bugs with Cypress**
 
 **My main goal** is to help people and contribute to **building** a better, more inclusive world where everyone can grow as a developer and **share my knowledge**.
